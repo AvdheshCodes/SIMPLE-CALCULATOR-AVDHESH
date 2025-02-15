@@ -2,6 +2,8 @@
 Simple Calculator
 
 Overview
+![image](https://github.com/user-attachments/assets/b0950d84-83a3-4c73-aed7-7c98c387ad9b)
+
 
 This is a simple calculator web application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is built using HTML, CSS, and JavaScript.
 
