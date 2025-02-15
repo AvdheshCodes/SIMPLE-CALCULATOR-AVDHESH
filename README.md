@@ -8,7 +8,7 @@ Simple Calculator
 
 This is a simple calculator web application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is built using HTML, CSS, and JavaScript.
 
-Features
+<h2>Features</h2>
 
 Supports basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/)
 
@@ -18,7 +18,7 @@ Displays real-time calculation results
 
 Responsive and interactive UI with hover effects
 
-Technologies Used :
+<h2>Technologies Used :</h2>
 
 HTML: Structure of the calculator
 
@@ -26,7 +26,7 @@ CSS: Styling and layout
 
 JavaScript: Logic and event handling
 
-How to Use :
+<h2>How to Use :</h2>
 
 Open the index.html file in a web browser.
 
@@ -36,7 +36,7 @@ Click the = button to get the result.
 
 Use C to clear the display and ← to delete the last entered value.
 
-Project Files :
+<h2>Project Files :</h2>
 
 index.html - Main structure of the calculator
 
@@ -52,9 +52,6 @@ Open index.html in any modern web browser.
 
 Start performing calculations!
 
-Screenshots :
-
-(Attach screenshots of the calculator UI here)
 
 Future Enhancements
 
