@@ -44,7 +44,7 @@ style.css - Styles for the UI
 
 script.js - JavaScript logic for handling calculations
 
-Setup Instructions : 
+<h2>Setup Instructions :</h2> 
 
 Download or clone this repository.
 
@@ -53,7 +53,7 @@ Open index.html in any modern web browser.
 Start performing calculations!
 
 
-Future Enhancements
+<h2>Future Enhancements</h2>
 
 Implement keyboard support for user input.
 
@@ -65,6 +65,6 @@ License
 
 This project is open-source and available under the MIT License.
 
-Author: Avdhesh
+<h4 style="text:italic">Author: Avdhesh</h4>
 
 Feel free to contribute to this project by submitting pull requests!
