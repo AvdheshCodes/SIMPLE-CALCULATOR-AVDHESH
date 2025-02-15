@@ -1,7 +1,7 @@
 # SIMPLE-CALCULATOR-AVDHESH
 Simple Calculator
 
-Overview
+<h2>Overview</h2>
 ![image](https://github.com/user-attachments/assets/7fa45c32-e7e7-49a3-9a49-a91751ce105e)
 
 
